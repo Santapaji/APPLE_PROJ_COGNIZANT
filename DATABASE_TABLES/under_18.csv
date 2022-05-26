@@ -1,0 +1,52 @@
+Customer_Id,First_Name,Last_Name,Middle_Name,Age,Audio_Id,Audio_Name,Product_Id,Product_Name,Music_App,App_Id,Video_Id,Music_Label
+CU1801,Aakash,Praveen,M,17,A001,Heer Raanjhana,P1,Ipad,Spotify ,MA2,,Sony Music
+CU1802,Amal,George,,16,A002,Dhokha,P2,Macbook ,Spotify ,MA2,,T-Series
+CU1803,Aaryadeep,Chaudhary,Praveen,17,A009,Mehabooba,P2,Macbook ,Apple music,MA3,,T-Series
+CU1804,Shreyash,Mesare,,16,A013,Meri Zindagi Hai Tu,P2,Macbook,Spotify ,MA2,,T-Series
+CU1805,Sanjeet,Dhok,,17,A007,Pasoori,P2,Macbook,Spotify ,MA2,,Coke Studio
+CU1806,Santosh,Makhija,Ameya,17,A004,Kuch Baatein,P3,Iphone,Apple music,MA3,,T-Series
+CU1807,Nilesh,Tiwari ,Suresh,16,A004,Kuch Baatein,P1,Ipad,Apple music,MA3,,T-Series
+CU1808,Rajendra ,Mittal,Ramesh,17,A030,Perfect,P1,Ipad ,Apple music,MA3,,
+CU1809,Prakash ,Munger,Ram,16,A005,Jo Mujhe Deewana Kar De,P2,Macbook,Amazon music,MA1,,T-Series
+CU1810,Radhakrishna ,Damani,,16,A018,Walls,P3,Iphone,Spotify ,MA2,,
+CU1811,Tim,Cook,,17,A002,Dhokha ,P3,Iphone,Spotify ,MA2,,T-Series
+CU1812,Narayana,Murthy,,16,A019,Civil,P1,Ipad,Apple music,MA3,,
+CU1813,Antony ,Nellangara,Roy,14,A017,Po Ve Po,P2,Macbook,Apple music,MA3,,Sony Music
+CU1815,Ayvon,Biji,Joseph,15,A012,Mere Yaaraa,P3,Iphone,Spotify ,MA2,,T-Series
+CU1816,George,P,George,13,A013,Meri Zindagi Hai Tu,P2,Macbook,Spotify ,MA2,,T-Series
+CU1817,Amar,Vimal,K,14,A006,Meri Jaan,P2,Macbook,Spotify ,MA2,,T-Series
+CU1818,Anil,Joseph,V,17,A020,Kayfabe,P3,Iphone,Spotify ,MA2,,
+CU1819,Rohith,Sreenivasan,S,17,A022,Red Rocks,P3,Iphone,Apple music,MA3,,
+CU1820,Ajay,Sajith,,16,A011,Rait Zara Si,P3,Iphone,Apple music,MA3,,T-Series
+CU1821,Kiran,Rao,,13,A021,How It Breaks,P3,Iphone,Apple music,MA3,,
+CU1822,Kavya,Mohan,S,17,A008,Saare Bolo Bewafa,P1,Ipad,Apple music,MA3,,T-Series
+CU1823,Karan,Deep,,14,A007,Pasoori,P3,Iphone,Apple music,MA3,,Coke Studio
+CU1824,Parvathi,Arun,R,16,A014,Po Ve Po,P3,Iphone,Apple music,MA3,,Sony Music
+CU1825,Pranoy,Sathya,M,17,A023,Reset,P3,Iphone,Apple music,MA3,,
+CU1826,Deepthi ,K,Das,17,A007,Pasoori,P2,Macbook,Apple music,MA3,,Coke Studio
+CU1827,Robin,David,,17,A016,Why This Kolaveri Di,P3,Iphone,Apple music,MA3,,Sony Music
+CU1828,Amir,Navaz,K,16,A015,The Rhythem Of Love,P3,Iphone,Apple music,MA3,,
+CU1829,Abhilash,Jacob,,17,A010,Ranjha,P3,Iphone,Apple music,MA3,,Sony Music
+CU1830,Jaison,Mathew,V,17,A028,Beautiful,P1,Ipad,Apple music,MA3,,
+CU1831,Theertha,Ramesh,,15,A002,Dhokha,P1,Ipad,Apple music,MA3,,T-Series
+CU1832,Tarun,Rajeev,,17,A002,Dhokha,P1,Ipad,Apple music,MA3,,T-Series
+CU1833,Tini,Peter,L,17,A027,How Great Is Your Love,P2,Macbook ,Apple music,MA3,,
+CU1834,Tony ,Abraham,K,17,A009,Mehabooba,P3,Iphone,Spotify ,MA2,,T-Series
+CU1835,Rahul ,Subhramaniam,G,17,A006,Meri Jaan,P3,Iphone,Spotify ,MA2,,T-Series
+CU1836,Arun,Neelakandan,,17,A006,Meri Jaan,P3,Iphone,,,,T-Series
+CU1837,Joseph,Alex,,17,A009,Mehabooba,P3,Iphone,Spotify ,MA2,,T-Series
+CU1838,Rose,John,Elezabeth,16,A006,Meri Jaan,P3,Iphone,Spotify ,MA2,,T-Series
+CU1839,Amritha,Ajith,,16,A030,Perfect,P3,Iphone,Apple music,MA3,,
+CU1840,Alen,Francis,Paul,17,A026,Good Day,P2,Macbook,Apple music,MA3,,
+CU1841,Diya,Das,Sanjay,14,A025,The Boys,P1,Ipad,Spotify ,MA2,,
+CU1842,Nivya,Samuel,John,17,A002,Dhokha,,,Apple music,MA3,,T-Series
+CU1843,Arthana,B,Aravind,17,A009,Mehabooba,,,Apple music,MA3,,T-Series
+CU1844,Arjun,Ram,,17,A009,Mehabooba,,,Spotify ,MA2,,T-Series
+CU1845,Pranav,Sundar,T,16,A0031,Excuses,,,,,,
+CU1846,Hrithik ,Ramesh,,17,A007,Pasoori,,,Spotify ,MA2,,Coke Studio
+CU1847,Nithya,Mahesh,M,17,A002,Dhokha,,,,,,T-Series
+CU1848,Vismaya ,Vinay,V,15,A007,Pasoori,,,Apple music,MA3,,Coke Studio
+CU1849,Ananya ,Tom,Merin,15,A024,Gangnam Style ,,,,,,
+CU1850,Keerthi,Raveendran,R,15,A029,My Love,,,Spotify ,MA2,,
+CU1851,Rakesh,Ravi,,17,A0111,Darsana,P1,Ipad,Spotify ,MA2,,Think Music
+CU1852,Vineeth,Sharma,T,17,A0113,Puthiyoru Lokam,P1,Ipad,Spotify ,MA2,,Think Music

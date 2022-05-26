@@ -1,0 +1,7 @@
+hadoop fs -put under13..csv /user/hive/warehouse/appleproject.db/under13
+hadoop fs -put under18.csv /user/hive/warehouse/appleproject.db/under18
+hadoop fs -put under21..csv /user/hive/warehouse/appleproject.db/under21
+hadoop fs -put Us_under_013.csv /user/hive/warehouse/appleproject.db/us_under_013
+hadoop fs -put Us_under18.csv /user/hive/warehouse/appleproject.db/us_under_18
+hadoop fs -put sony_data.csv /user/hive/warehouse/appleproject.db/sony_data
+hadoop fs -put newmaster.csv /user/hive/warehouse/appleproject.db/newmaster

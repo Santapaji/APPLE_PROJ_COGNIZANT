@@ -1,0 +1,51 @@
+Customer_Id,First_Name,Last_Name,Middle_Name,Age,Audio_Id,Audio_Name,Product_Id,Product_Name,Music_App,App_Id,Video_Id,Music_Label
+CUS01301,Sean,Allen,S I,8,AUS051,Despacito(Remix),P1,Ipad,Spotify,MA2,,Sony Music
+CUS01302,Miles,Allen,,9,AUS052,Rap God,P2,Macbook,Amazone music,MA1,,Sony Music
+CUS01303,Peyton,Allen,,6,AUS053,Wap,P2,Macbook,Apple music,MA3,,Sony Music
+CUS01304,Lindsay,Allen,Marie,5,AUS054,Shape Of You,P2,Macbook,Spotify,MA2,,Virgin Records
+CUS01305,DaMarea',Allen,,10,AUS055,The Hills,P1,Ipad,Spotify,MA2,,Virgin Records
+CUS01306,lucy,Allen,,11,AUS056,N95,P1,Ipad,Spotify,MA2,,Virgin Records
+CUS01307,Quinton,Abraham,Russell,12,AUS057,We Cry Together,P1,Ipad,Amazone music,MA1,,T-Series
+CUS01308,Bilal,Abraham,,10,AUS058,Auntie Diaries,P3,Iphone,Amazone music,MA1,,Warner music group
+CUS01309,Isaiah,Abraham,,5,AUS059,Mother I Sober,P3,Iphone,Amazone music,MA1,,T-Series
+CUS01310,Toni,Abraham,Marie,6,AUS060,Bad and Boujee,P3,Iphone,Apple music,MA3,,Sony Music
+CUS01311,Lyan,Abraham,,9,AUS061,God's Plan,P3,Iphone,Apple music,MA3,,Sony Music
+CUS01312,Harold,Abraham,,8,AUS062,Sicko Mode,P3,Iphone,Apple music,MA3,,Virgin Records
+CUS01313,Isaac,Abraham,,4,AUS063,Man's Not Hot,P3,Iphone,Spotify,MA2,,Sony Music
+CUS01314,Jessica,Adams,Marie,3,AUS064,Drunk in Love,P3,Iphone,Spotify,MA2,,Warner music group
+CUS01315,Julissa,Adams,Rose,2,AUS065,United in Grief,P1,Ipad,Spotify,MA2,,T-Series
+CUS01316,liberty,Adams,Jo,1,AUS066,Father Time,P1,Ipad,Amazone music,MA1,,Virgin Records
+CUS01317,Josh,Adams,,4,AUS067,Savior,P1,Ipad,Amazone music,MA1,,Virgin Records
+CUS01318,Kaiya,Adcock,Barrett,6,AUS068,WorldWide Steppers,P1,Ipad,Amazone music,MA1,,T-Series
+CUS01319,Katelyn,Adeeb,Selaine,9,AUS069,Die Hard,P2,Macbook,Apple music,MA3,,T-Series
+CUS01320,Katie,Adkins,,8,AUS070,Bodak Yellow,P2,Macbook,Apple music,MA3,,Sony Music
+CUS01321,Olivia,Adkins,,7,AUS071,Work,P2,Macbook,Apple music,MA3,,Virgin Records
+CUS01322,Santino,Adkins,Alexander,10,AUS072,Too Good at Goodbyes,P2,Macbook,Spotify,MA2,,Virgin Records
+CUS01323,McKenzie,Adkins,B,11,AUS073,Fuckin' Problems,P2,Macbook,Spotify,MA2,,Sony Music
+CUS01324,Brendan,Ahlbach,,12,AUS074,In My Feelings,P3,Iphone,Spotify,MA2,,Sony Music
+CUS01325,Atiana,Ahlbach,E,10,AUS075,Count Me Out,P3,Iphone,Amazone music,MA1,,T-Series
+CUS01326,Andrew,Akins,Charity,10,AUS076,Mr.Morale,P3,Iphone,Amazone music,MA1,,Warner music group
+CUS01327,Wyatt,Al-Sabahi,Mackezie,12,AUS077,Rich Spirit,P3,Iphone,Amazone music,MA1,,Warner music group
+CUS01328,Allison,Al-Sabahi,,11,AUS078,Mirror,P3,Iphone,Apple music,MA3,,Warner music group
+CUS01329,Ashley,Al-Sabahi,,12,AUS079,Purple Hearts,P2,Macbook,Apple music,MA3,,T-Series
+CUS01330,Syrenitee,Al-Sabahi,,11,AUS080,Trap Queen,P2,Macbook,Apple music,MA3,,Sony Music
+CUS01331,Kelly,Al-Sabahi,,11,AUS081,Rockstar,P2,Macbook,Spotify,MA2,,Sony Music
+CUS01332,Natasha,Albonico,,11,AUS082,Mercy,P2,Macbook,Spotify,MA2,,Virgin Records
+CUS01333,Paxton,Alcantar,Jade,12,AUS083,Closer,P3,Iphone,Spotify,MA2,,Sony Music
+CUS01334,Peter,Alcon,,12,AUS084,Shallow,P3,Iphone,Amazone music,MA1,,Sony Music
+CUS01335,Destiny,Aldama,,12,AUS085,Silent Hill,P3,Iphone,Amazone music,MA1,,T-Series
+CUS01336,Maya,Alderman,Reece,12,AUS086,Crown,P3,Iphone,Amazone music,MA1,,Virgin Records
+CUS01337,Tramiris,Aldridge,Ashton,10,AUS087,The Foundation of Decay,P3,Iphone,Apple music,MA3,,Virgin Records
+CUS01338,Emmalee,Aldridge,,10,AUS088,The Heart Part5,P3,Iphone,Apple music,MA3,,T-Series
+CUS01339,Emmery,Aleman,,10,AUS089,Rich,P1,Ipad,Apple music,MA3,,Warner music group
+CUS01340,Naisya,Alexander,James,9,AUS090,Perfact,P1,Ipad,Spotify,MA2,,Sony Music
+CUS01341,Jaliscia,Alexander,,6,AUS091,"I hate u, I love u",P1,Ipad,Spotify,MA2,,Sony Music
+CUS01342,Billy,Alexander,Ashleigh,6,AUS092,Formation,P1,Ipad,Spotify,MA2,,Virgin Records
+CUS01343,Blake,Alexander,Rose,9,AUS093,One Dance,P2,Macbook,Amazone music,MA1,,Virgin Records
+CUS01344,Michael,Alexander,,9,AUS094,Panda,P2,Macbook,Amazone music,MA1,,Sony Music
+CUS01345,Annmarie,Alfieri,Danielle,9,AUS095,Steff,P2,Macbook,Amazone music,MA1,,T-Series
+CUS01346,Alyssa,Alford,Luciano,8,AUS096,Jiggle Jiggle,P3,Iphone,Apple music,MA3,,Warner music group
+CUS01347,Celeste,Alimentato,,8,AUS097,Me Porto Bonito,P3,Iphone,Apple music,MA3,,Warner music group
+CUS01348,Ryan,Alldredge,,7,AUS098,Cooped Up,P3,Iphone,Apple music,MA3,,Warner music group
+CUS01349,Liliana,Allen,Jayde,7,AUS099,Astral Step,P3,Iphone,Apple music,MA3,,Virgin Records
+CUS01350,Layne,Allen,Christopher Conley,5,AUS100,Andrea,P3,Iphone,Apple music,MA3,,Virgin Records

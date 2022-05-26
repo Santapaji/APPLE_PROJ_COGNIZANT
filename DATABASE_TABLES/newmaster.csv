@@ -1,0 +1,154 @@
+Customer_Id,First_Name,Last_Name,Middle_Name,Age,Audio_Id,Audio_Name,Product_Id,Product_Name,Music_App,App_Id,Video_Id,Music_Label
+CU1301,Mayur,Dolifode,,8,A051,Param Sundari,P1,ipad,Amazone Music,MA1,,Sony Music
+CU1302,Vaishnav,Kale,Gajanan,9,A052,Mehndi Hai Rachnewali,P2,macbook,Amazone Music,MA1,,Sony Music
+CU1303,Rutwik,Gormode,Pravin,7,A053,Kaise Mujhe Tum,P3,iphone,Spotify,MA2,,T-Series
+CU1304,Shantanu,Mangale,Ganesh,8,A054,Hum Nashe Mein Toh Nahin,P2,macbook,Apple Music,MA3,,T-Series
+CU1305,Tarak,Kalore,Sanjay,7,A055,Rehnuma,P3,iphone,Apple Music,MA3,,T-Series
+CU1306,Sandeep,Tatewar,Pradeep,5,A056,Kun Faya Kun,P3,iphone,Apple Music,MA3,,Sony Music
+CU1307,Pradyumn,Dharmale,Gunwant,6,A057,Rait Zara Si,P3,iphone,Apple Music,MA3,,Sony Music
+CU1308,Vidhi,Verma,Gajanan,12,A058,Chakka Chakalathi,P1,ipad,Amazone Music,MA1,,Sony Music
+CU1309,Charlie,Munger,,10,A059,Kaalame,P1,ipad,Amazone Music,MA1,,Sony Music
+CU1310,Narendra,Kushwaha,,12,A060,Ishq Bezubaan,P2,macbook,Amazone Music,MA1,,T-Series
+CU1311,Sumit,Shrivastava,kumar,8,A061,Jalwanuma,P2,macbook,Spotify,MA2,,T-Series
+CU1312,Neeraj ,Mishra,,6,A062,Komuram Bheemudo,P3,iphone,Spotify,MA2,,T-Series
+CU1313,Ayarn ,Swarn,,11,A063,Jessie's Land,P1,ipad,Spotify,MA2,,Sony Music
+CU1314,Goutam,Rajpoot,Singh,10,A064,Maa tujhe Salaam,P1,ipad,Apple Music,MA3,,Sony Music
+CU1315,Prathvi,Pandey,,9,A065,The Humma Song,P1,ipad,Apple Music,MA3,,Sony Music
+CU1316,Akshita,Jain,,5,A066,Mast Nazron se,P3,iphone,Apple Music,MA3,,T-Series
+CU1317,Nishtha ,Mehta,,8,A067,Teri Ankho Mein,P1,ipad,Apple Music,MA3,,T-Series
+CU1318,Bhavna ,Yadav,,7,A068,Pathhar Wargi,P3,iphone,Amazone Music,MA1,,T-Series
+CU1319,Kapil ,Vishwakarma,,9,A069,High Rated,P3,iphone,Spotify,MA2,,T-Series
+CU1320,Puneet ,Vishwakarma,,6,A070,Genda Phool,P2,macbook,Spotify,MA2,,T-Series
+CU1321,Sahitya,Gour,Kumar,9,A071,Backbone,P3,iphone,Apple Music,MA3,,Sony Music
+CU1322,Ankit,Chouhan,Singh,10,A072,Soch,P2,macbook,Spotify,MA2,,Sony Music
+CU1323,Aayush,Chouhan,Singh,12,A073,Soch na Sake-Sab Tera,P2,macbook,Amazone Music,MA1,,Sony Music
+CU1324,Pratyush,Tiwari,Kumar,11,A074,Titliaan Warga,P1,ipad,Amazone Music,MA1,,Sony Music
+CU1325,Sonu,Sahu,,8,A075,Tanhaai,P2,macbook,Apple Music,MA3,,T-Series
+CU1326,Nitesh,Chourasiya,,7,A076,Vaaste,P2,macbook,Apple Music,MA3,,T-Series
+CU1327,Gourav,Guru,,12,A077,Naam,P3,iphone,Apple Music,MA3,,T-Series
+CU1328,Digvijay,Singh,,11,A078,Tumse Pyaar Karke,P1,ipad,Apple Music,MA3,,Sony Music
+CU1329,Neetu,Singh,,12,A079,Lut Gaye,P1,ipad,Spotify,MA2,,Sony Music
+CU1330,Lovely,Gupta,,5,A080,Loca,P3,iphone,Spotify,MA2,,T-Series
+CU1331,Harshit ,Gupta,,6,A081,Phir Na Milen Kabhi Reprise,P3,iphone,Amazone Music,MA1,,T-Series
+CU1332,Mayank,Chourasiya,Kumar,8,A082,Tujhe Bhula Diya,P2,macbook,Amazone Music,MA1,,T-Series
+CU1333,Santosh,Sahu,kumar,7,A083,Jee karr Daa,P3,iphone,Apple Music,MA3,,Sony Music
+CU1334,Jitendra,Dubey,kumar,6,A084,Jokar,P2,macbook,Amazone Music,MA3,,Sony Music
+CU1335,Kuldeep,Vishwakarma,,8,A085,Kabhi yun,P2,macbook,Apple Music,MA3,,T-Series
+CU1336,Gaurav,Deewan,,11,A086,Kuch Baatein,P2,macbook,Amazone Music,MA1,,Sony Music
+CU1337,Sourabh,Chandrawanshi,,12,A087,Aap ka surroor,P2,macbook,Spotify,MA2,,T-Series
+CU1338,Suljeet,Thakur,,10,A088,Naa Ji Naa,P3,iphone,Spotify,MA2,,Sony Music
+CU1339,Doctor,Mahato,,9,A089,Yaarr ni Milyaa,P3,iphone,Spotify,MA2,,Sony Music
+CU1340,Isha,Gupta,,7,A090,Aashiq Banaya Aapne,P1,ipad,Apple Music,MA3,,T-Series
+CU1341,Isha,Soni,,6,A091,Chal mere Bhai,P1,ipad,Apple Music,MA3,,T-Series
+CU1342,Parth,Dubey,,5,A092,Dil Galti Kar Baitha Hai,P2,macbook,Amazone Music,MA1,,Sony Music
+CU1343,Aishwarya,Rajpoot,,8,A093,Mast Nazron Se,P1,ipad,Amazone Music,MA1,,Sony Music
+CU1344,Priya,Kurmi,,9,A094,Chalte Chalte,P1,ipad,Spotify,MA2,,T-Series
+CU1345,Avni,Halve,,7,A095,Naah Goriye,P3,iphone,Spotify,MA2,,Sony Music
+CU1346,Arjun,Kolare,,6,A096,Chandigarh Mein,P3,iphone,Spotify,MA2,,Sony Music
+CU1347,Ashish,Pathak,kumar,8,A097,Chup Chup ke,P2,macbook,Apple Music,MA3,,T-Series
+CU1348,Saloni,Jain,,9,A098,Dil Hai Ke Manta Nahin,P2,macbook,Apple Music,MA3,,T-Series
+CU1349,Aman,Prakash,kumar,5,A099,Aaoge Jab tum,P3,iphone,Amazone Music,MA1,,T-Series
+CU1350,Aaditya,Jain,,6,A100,Mauja Hi Mauja,P2,macbook,Amazone Music,MA1,,T-Series
+CU1351,Subhash,Jha,kumar,5,A101,Horn Blow,P2,macbook,Spotify,MA2,,Sony Music
+CU1801,Aakash,Praveen,M,17,A001,Heer Raanjhana,P1,Ipad,Spotify ,MA2,,Sony Music
+CU1802,Amal,George,,16,A002,Dhokha,P2,Macbook ,Spotify ,MA2,,T-Series
+CU1803,Aaryadeep,Chaudhary,Praveen,17,A009,Mehabooba,P2,Macbook ,Apple music,MA3,,T-Series
+CU1804,Shreyash,Mesare,,16,A013,Meri Zindagi Hai Tu,P2,Macbook,Spotify ,MA2,,T-Series
+CU1805,Sanjeet,Dhok,,17,A007,Pasoori,P2,Macbook,Spotify ,MA2,,Coke Studio
+CU1806,Santosh,Makhija,Ameya,17,A004,Kuch Baatein,P3,Iphone,Apple music,MA3,,T-Series
+CU1807,Nilesh,Tiwari ,Suresh,16,A004,Kuch Baatein,P1,Ipad,Apple music,MA3,,T-Series
+CU1808,Rajendra ,Mittal,Ramesh,17,A030,Perfect,P1,Ipad ,Apple music,MA3,,
+CU1809,Prakash ,Munger,Ram,16,A005,Jo Mujhe Deewana Kar De,P2,Macbook,Amazon music,MA1,,T-Series
+CU1810,Radhakrishna ,Damani,,16,A018,Walls,P3,Iphone,Spotify ,MA2,,
+CU1811,Tim,Cook,,17,A002,Dhokha ,P3,Iphone,Spotify ,MA2,,T-Series
+CU1812,Narayana,Murthy,,16,A019,Civil,P1,Ipad,Apple music,MA3,,
+CU1813,Antony ,Nellangara,Roy,14,A017,Po Ve Po,P2,Macbook,Apple music,MA3,,Sony Music
+CU1815,Ayvon,Biji,Joseph,15,A012,Mere Yaaraa,P3,Iphone,Spotify ,MA2,,T-Series
+CU1816,George,P,George,13,A013,Meri Zindagi Hai Tu,P2,Macbook,Spotify ,MA2,,T-Series
+CU1817,Amar,Vimal,K,14,A006,Meri Jaan,P2,Macbook,Spotify ,MA2,,T-Series
+CU1818,Anil,Joseph,V,17,A020,Kayfabe,P3,Iphone,Spotify ,MA2,,
+CU1819,Rohith,Sreenivasan,S,17,A022,Red Rocks,P3,Iphone,Apple music,MA3,,
+CU1820,Ajay,Sajith,,16,A011,Rait Zara Si,P3,Iphone,Apple music,MA3,,T-Series
+CU1821,Kiran,Rao,,13,A021,How It Breaks,P3,Iphone,Apple music,MA3,,
+CU1822,Kavya,Mohan,S,17,A008,Saare Bolo Bewafa,P1,Ipad,Apple music,MA3,,T-Series
+CU1823,Karan,Deep,,14,A007,Pasoori,P3,Iphone,Apple music,MA3,,Coke Studio
+CU1824,Parvathi,Arun,R,16,A014,Po Ve Po,P3,Iphone,Apple music,MA3,,Sony Music
+CU1825,Pranoy,Sathya,M,17,A023,Reset,P3,Iphone,Apple music,MA3,,
+CU1826,Deepthi ,K,Das,17,A007,Pasoori,P2,Macbook,Apple music,MA3,,Coke Studio
+CU1827,Robin,David,,17,A016,Why This Kolaveri Di,P3,Iphone,Apple music,MA3,,Sony Music
+CU1828,Amir,Navaz,K,16,A015,The Rhythem Of Love,P3,Iphone,Apple music,MA3,,
+CU1829,Abhilash,Jacob,,17,A010,Ranjha,P3,Iphone,Apple music,MA3,,Sony Music
+CU1830,Jaison,Mathew,V,17,A028,Beautiful,P1,Ipad,Apple music,MA3,,
+CU1831,Theertha,Ramesh,,15,A002,Dhokha,P1,Ipad,Apple music,MA3,,T-Series
+CU1832,Tarun,Rajeev,,17,A002,Dhokha,P1,Ipad,Apple music,MA3,,T-Series
+CU1833,Tini,Peter,L,17,A027,How Great Is Your Love,P2,Macbook ,Apple music,MA3,,
+CU1834,Tony ,Abraham,K,17,A009,Mehabooba,P3,Iphone,Spotify ,MA2,,T-Series
+CU1835,Rahul ,Subhramaniam,G,17,A006,Meri Jaan,P3,Iphone,Spotify ,MA2,,T-Series
+CU1836,Arun,Neelakandan,,17,A006,Meri Jaan,P3,Iphone,,,,T-Series
+CU1837,Joseph,Alex,,17,A009,Mehabooba,P3,Iphone,Spotify ,MA2,,T-Series
+CU1838,Rose,John,Elezabeth,16,A006,Meri Jaan,P3,Iphone,Spotify ,MA2,,T-Series
+CU1839,Amritha,Ajith,,16,A030,Perfect,P3,Iphone,Apple music,MA3,,
+CU1840,Alen,Francis,Paul,17,A026,Good Day,P2,Macbook,Apple music,MA3,,
+CU1841,Diya,Das,Sanjay,14,A025,The Boys,P1,Ipad,Spotify ,MA2,,
+CU1842,Nivya,Samuel,John,17,A002,Dhokha,,,Apple music,MA3,,T-Series
+CU1843,Arthana,B,Aravind,17,A009,Mehabooba,,,Apple music,MA3,,T-Series
+CU1844,Arjun,Ram,,17,A009,Mehabooba,,,Spotify ,MA2,,T-Series
+CU1845,Pranav,Sundar,T,16,A0031,Excuses,,,,,,
+CU1846,Hrithik ,Ramesh,,17,A007,Pasoori,,,Spotify ,MA2,,Coke Studio
+CU1847,Nithya,Mahesh,M,17,A002,Dhokha,,,,,,T-Series
+CU1848,Vismaya ,Vinay,V,15,A007,Pasoori,,,Apple music,MA3,,Coke Studio
+CU1849,Ananya ,Tom,Merin,15,A024,Gangnam Style ,,,,,,
+CU1850,Keerthi,Raveendran,R,15,A029,My Love,,,Spotify ,MA2,,
+CU1851,Rakesh,Ravi,,17,A0111,Darsana,P1,Ipad,Spotify ,MA2,,Think Music
+CU1852,Vineeth,Sharma,T,17,A0113,Puthiyoru Lokam,P1,Ipad,Spotify ,MA2,,Think Music
+CU2101,Shantanu,Kuche,Vinod,18,A051,Param Sundari,P1,ipad,Amazone Music,MA1,V01,Sony Music
+CU2102,Bikhil,Thakare,Mukesh,20,A052,Mehndi Hai Rachnewali,P2,macbook,Amazone Music,MA1,V02,Sony Music
+CU2103,Ameya,Tale,Arvind,19,A053,Kaise Mujhe Tum,P3,iphone,Spotify,MA2,V03,T-Series
+CU2104,Nelson,Shelokar,Manoj,20,A054,Hum Nashe Mein Toh Nahin,P2,macbook,Apple Music,MA3,V04,T-Series
+CU2105,Taran,Baghat,,19,A055,Rehnuma,P3,iphone,Apple Music,MA3,,T-Series
+CU2106,Rishikesh,Deshmukh,Gajanan,20,A056,Kun Faya Kun,P3,iphone,Apple Music,MA3,V06,Sony Music
+CU2107,Shreejan,Deshmukh,Ramesh,18,A057,Rait Zara Si,P3,iphone,Apple Music,MA3,V07,Sony Music
+CU2108,Pranav,Pawar,,18,A058,Chakka Chakalathi,P1,ipad,Amazone Music,MA1,V08,Sony Music
+CU2109,Lalit,Khanzode,Vinod,20,A059,Kaalame,P3,iphone,Amazone Music,MA1,V09,Sony Music
+CU2110,Sangita,Verma,Vijay,20,A060,Ishq Bezubaan,P2,macbook,Amazone Music,MA1,V10,T-Series
+CU2111,Shilpa,Raikwar,Abhijeet,18,A061,Jalwanuma,P2,macbook,Spotify,MA2,V11,T-Series
+CU2112,Ranjeet,Gates,Sanjay,20,A062,Komuram Bheemudo,P3,iphone,Spotify,MA2,V12,T-Series
+CU2113,Sanjay,Cook,Ranjeet,19,A063,Jessie's Land,P3,iphone,Spotify,MA2,V13,Sony Music
+CU2114,Gajanan,Murthy,Palash,20,A064,Maa tujhe Salaam,P3,iphone,Apple Music,MA3,V14,Sony Music
+CU2115,Sanvi,Ambetkar,Satyam,19,A065,The Humma Song,P1,ipad,Apple Music,MA3,V15,Sony Music
+CU2116,Shiva,Adani,Gautam,20,A066,Mast Nazron se,P3,iphone,Apple Music,MA3,V16,T-Series
+CU2117,Elon,Musk,,20,A067,Teri Ankho Mein,P3,iphone,Apple Music,MA3,V17,T-Series
+CU2118,Ratan,Tata,Naval,19,A068,Pathhar Wargi,P3,iphone,Amazone Music,MA1,V18,T-Series
+CU2119,Mukesh,Ambani,Dhirubhai,18,A069,High Rated,P3,iphone,Spotify,MA2,V19,T-Series
+CU2120,Shantanu,Narayen,,18,A070,Genda Phool,P2,macbook,Spotify,MA2,V20,T-Series
+CU2121,Anand,Mahindra,Gopal,20,A071,Backbone,P3,iphone,Apple Music,MA3,V21,Sony Music
+CU2122,Vikalp,Mishra,,20,A072,Soch,P2,macbook,Spotify,MA2,V22,Sony Music
+CU2123,Aayush,Thakur,Singh,18,A073,Soch na Sake-Sab Tera,P3,iphone,Amazone Music,MA1,V23,Sony Music
+CU2124,Prayag,Tiwari,Kumar,19,A074,Titliaan Warga,P1,ipad,Amazone Music,MA1,V24,Sony Music
+CU2125,Sanu,Sahu,,19,A075,Tanhaai,P3,iphone,Apple Music,MA3,V25,T-Series
+CU2126,Nayan,Chourasiya,,20,A076,Vaaste,P2,macbook,Apple Music,MA3,V26,T-Series
+CU2127,Garvit,Guru,,18,A077,Naam,P3,iphone,Apple Music,MA3,V27,T-Series
+CU2128,Kumar,Sanu,,19,A078,Tumse Pyaar Karke,P1,ipad,Apple Music,MA3,V28,Sony Music
+CU2129,Neeta,Ambani,,18,A079,Lut Gaye,P1,ipad,Spotify,MA2,V29,Sony Music
+CU2130,Aayushi,Gupta,,19,A080,Loca,P3,iphone,Spotify,MA2,V30,T-Series
+CU2131,Harshita,Gupta,,20,A081,Phir Na Milen Kabhi Reprise,P3,iphone,Amazone Music,MA1,V31,T-Series
+CU2132,Manish,Chourasiya,Kumar,18,A082,Tujhe Bhula Diya,P2,macbook,Amazone Music,MA1,V32,T-Series
+CU2133,Ramkesh,Sahu,kumar,19,A082,Jee karr Daa,P3,iphone,Apple Music,MA3,V33,Sony Music
+CU2134,Dharmendra,Dubey,kumar,20,A084,Jokar,P2,macbook,Amazone Music,MA3,V34,Sony Music
+CU2135,Surendra,Vishwakarma,,20,A085,Kabhi yun,P2,macbook,Apple Music,MA3,V35,T-Series
+CU2136,Mahendra,Deewan,,20,A086,Kuch Baatein,P2,macbook,Amazone Music,MA1,V36,Sony Music
+CU2137,Raj,Chandrawanshi,,18,A087,Aap ka surroor,P2,macbook,Spotify,MA2,V37,T-Series
+CU2138,Aman,Thakur,,18,A088,Naa Ji Naa,P3,iphone,Spotify,MA2,,Sony Music
+CU2139,Ankit,Mahato,,19,A089,Yaarr ni Milyaa,P3,iphone,Spotify,MA2,V39,Sony Music
+CU2140,Ishika,Chandrawanshi,,20,A090,Aashiq Banaya Aapne,P1,ipad,Apple Music,MA3,V40,T-Series
+CU2141,Pragya,Soni,,19,A091,Chal mere Bhai,P1,ipad,Apple Music,MA3,V41,T-Series
+CU2142,Khushboo,Dubey,,19,A092,Dil Galti Kar Baitha Hai,P2,macbook,Amazone Music,MA1,V42,Sony Music
+CU2143,Utkarsha,Rajpoot,,18,A093,Mast Nazron Se,P1,ipad,Amazone Music,MA1,V43,Sony Music
+CU2144,Karima,Kurmi,,18,A094,Chalte Chalte,P1,ipad,Spotify,MA2,V44,T-Series
+CU2145,Pallavi,Halve,,18,A095,Naah Goriye,P3,iphone,Spotify,MA2,V45,Sony Music
+CU2146,Meghna,Kolare,,20,A096,Chandigarh Mein,P3,iphone,Spotify,MA2,,Sony Music
+CU2147,Nisha,Pathak,kumar,19,A097,Chup Chup ke,P2,macbook,Apple Music,MA3,V47,T-Series
+CU2148,Rekha,Jain,,20,A098,Dil Hai Ke Manta Nahin,P2,macbook,Apple Music,MA3,V48,T-Series
+CU2149,Shailendra,Prakash,kumar,18,A099,Aaoge Jab tum,P3,iphone,Amazone Music,MA1,V49,T-Series
+CU2150,Shailesh,Jain,,19,A100,Mauja Hi Mauja,P2,macbook,Amazone Music,MA1,V50,T-Series
+CU2151,Manjeet,Jha,kumar,20,A101,Horn Blow,P3,iphone,Spotify,MA2,V51,Sony Music
