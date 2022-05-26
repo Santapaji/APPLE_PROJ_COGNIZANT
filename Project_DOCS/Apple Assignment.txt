@@ -1,0 +1,54 @@
+App usage of well established Apple products 
+100 customers who are using the apple device they want to use the apple media products as well as apple news app
+Find out the number of users enrolled in Apple devices (iPhone,iPad, macbook apple desktop etc)
+and uses Apple apps (internal and external)
+
+Get 8 files - 5 external and 3 internal files
+5 external files - 2 are csv, 2 json, 1 spreadsheet
+we have to bring into unix as raw data and while move this to mysql  we have all the data quality rules
+5 data quality rules need to apply
+while bringing data from external files to unix system make we us all the data quality rules(NULL-surname, space can be used )
+and 
+
+From the 2 csv files - music data from Sony and Tseries (vendors from sony and T Series)
+
+Json files - videos data from US and China (video streaming data/audio streaming data) Find the video app it can be another country also
+
+Spreadsheet - News data (anonymous)-news data (Times of India) need to work on it 
+
+In the 4 tables - 2 tables have existing users using music and video products
+
+1 table already has news data
+
+1 master table should have all the products containing existing and new users
+every table should have at least 10 columns
+ 
+all the files to be loaded into UNIX
+(join all the files with tables)
+
+10 transformation rules to be coded in Python and loaded into master table
+
+Create one more table which should have combination of all the segments for individual customers
+(at least 100 customers - each should be associated with one segment ID, each video/audio should have own unique segment ID)
+
+Create 3 age groups - under 18, under 13, under 21 (for India)
+under 18, under 13, above 18 - for US
+All the customers that are above 18 should have access to all the products with segment ID and product combination
+All the cutomers under the age between 13 and 18 have the access to audio 
+All the customers that are under 13 should have access to only music with segment ID and product combination
+
+After uploading everything show charts of all age group based on age and products
+
+Technology - unix, python, sql, data visualisation, hive, hdfs
+
+Product has to be well developed and tested
+
+
+
+
+Unix Shubham,Sanjay
+Python Balasubramani, Joswin
+MySQL Joswin,Priyanaka,Saurab, Somesh,Shubham
+Data Visualization Joswin,Somesh,Yash
+Hive  Saurabh
+Hadoop  Sanjay, Saurabh.
